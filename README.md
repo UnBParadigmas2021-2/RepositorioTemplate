@@ -10,7 +10,7 @@ Paradigmas:
 
 **!! *Não coloque os nomes dos alunos no título do repositório*. !!**
 
-**!! *Exemplo de título correto: 2021.1_G1_Logico_ProjetoRoteirosAereos*. !!**
+**!! *Exemplo de título correto: 2021.2_G1_Logico_ProjetoRoteirosAereos*. !!**
  
  (Apague essa seção)
 
